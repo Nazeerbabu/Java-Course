@@ -11,7 +11,7 @@ public class Armstrong {
 
     // Function to check if a number is an Armstrong number
     public static boolean isArmstrong(int num) {
-        int originalNumber = num;
+        int originalNumber = num;git a
         int sum = 0;
         int digits = countDigits(num);
         
